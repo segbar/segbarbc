@@ -1,5 +1,5 @@
-# jbc
-Jack's Blockchain -- Simple blockchain to learn and talk about how blockchains work.
+# segbarbc
+This is a clone Jack's Blockchain -- Simple blockchain to learn and talk about how blockchains work.
 
 ## Getting Started
 
